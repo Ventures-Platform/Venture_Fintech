@@ -2,7 +2,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Product {
+{
     private String name;
     private double price;
     private int quantity;
+public void addItem(Product product) {
+        items.add(product);
+}
