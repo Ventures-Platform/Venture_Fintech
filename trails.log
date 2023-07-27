@@ -1,0 +1,2 @@
+public void addItem(Product product) {
+        items.add(product);
