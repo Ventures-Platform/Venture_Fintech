@@ -1,0 +1,5 @@
+[200~// Getters and setters (omitted for brevity)
+
+    @Override
+        public String toString() {
+		        return name + " - $" + price + " x " + 
